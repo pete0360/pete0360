@@ -6,7 +6,7 @@ In the Module App program, we learn a diverse skillset in order to best prepare 
 
 Languages I am knowledgeable in include:
 - HTML/CSS
--JavaScript/ES6
+- JavaScript/ES6
 - C++
 
 
@@ -14,15 +14,15 @@ Languages I am knowledgeable in include:
 Through the program, I have gained hands-on experience learning how to effectively use web/ mobile applications and software. 
 
 I have built projects using the following software and applications: 
--Basic CRUD
--Cordova
--Adobe Photoshop
--AdobeXD
--SPA
--PWA
--Express
--Materialize
--nodeJS
+- Basic CRUD
+- Cordova
+- Adobe Photoshop
+- AdobeXD
+- SPA
+- PWA
+- Express
+- Materialize
+- NodeJS
 
 
 <!--

@@ -14,7 +14,6 @@ Languages I am knowledgeable in include:
 Through the program, I have gained hands-on experience learning how to effectively use web/ mobile applications and software. 
 
 I have built projects using the following software and applications: 
-
 -Basic CRUD
 -Cordova
 -Adobe Photoshop

@@ -1,28 +1,28 @@
 ### Hi there 👋 I'm Ben Peterkins
 
-I'm currently a first year student of aAlgonquin College's Mobile App Design program. 
+Im a front end software developer who has just completed the Algonquin College Mobile App Design and Development program. 
 
-In the Module App program, we learn a diverse skillset in order to best prepare us for the tech industy. 
+From the program, I have aquired skills that would make me an asset to any development team.  
 
 Languages I am knowledgeable in include:
 - HTML/CSS
 - JavaScript/ES6
-- C++
+- React
+- SwiftUI
+- React Native
 
+Technologies that I have experience with: 
 
-
-Through the program, I have gained hands-on experience learning how to effectively use web/ mobile applications and software. 
-
-I have built projects using the following software and applications: 
-- Basic CRUD
-- Cordova
-- Adobe Photoshop
+- Git
+- GitHub
 - AdobeXD
-- SPA
-- PWA
-- Express
-- Materialize
-- NodeJS
+- Figma
+- GraphQL
+- VSCode
+
+Here's my Blog where I write about my experiences as a junior developer and my journey to learning more about native iOS development: 
+https://bpeterkins.hashnode.dev/
+
 
 
 <!--

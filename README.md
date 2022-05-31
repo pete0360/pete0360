@@ -8,8 +8,9 @@ Languages I am knowledgeable in include:
 - HTML/CSS
 - JavaScript/ES6
 - React
-- SwiftUI
 - React Native
+- SwiftUI
+
 
 Technologies that I have experience with: 
 

@@ -7,16 +7,15 @@ From the program, I have aquired skills that would make me an asset to any devel
 Languages I am knowledgeable in include:
 - HTML/CSS
 - JavaScript/ES6
+- TypeScript
 - React
-- React Native
 - SwiftUI
 
 
 Technologies that I have experience with: 
 
-- Git
 - GitHub
-- AdobeXD
+- Redux
 - Figma
 - GraphQL
 - VSCode
